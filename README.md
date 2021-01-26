@@ -41,6 +41,8 @@ At any time, the viewer can return to the top of the page by clicking the logo i
 ### Planning
 - [x] download assets from existing site
 - [x] set up repo
+- [x] create organization
+- [x] set up github page
 - [ ] bootstrap
 - [ ] transfer domain
 - [ ] configure DNS
