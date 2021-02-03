@@ -64,5 +64,4 @@ The website also features YouTube videos explaining the brand, and a press / blo
 * set up dreamcatcher organization
 * create Google Analytics property
 * send test data 
-* 
 * **MILESTONE: *Initial Commit***
