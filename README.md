@@ -39,6 +39,7 @@ The website also features YouTube videos explaining the brand, and a press / blo
   * background
   * experience
   * bio
+* photos of past experiences
 * rolling blog / press section
 
 ### Planning
@@ -61,5 +62,7 @@ The website also features YouTube videos explaining the brand, and a press / blo
 ### Updates
 #### v0.0.1
 * set up dreamcatcher organization
+* create Google Analytics property
+* send test data 
 * 
 * **MILESTONE: *Initial Commit***
